@@ -11,3 +11,6 @@ Testowanie modelu
 
 Predykcja na następne 30 dni
 ![image](https://github.com/user-attachments/assets/33dbf560-309a-47db-9e82-17e52a37b16a)
+
+Code borrows from Greg Hogg's tutorial: https://youtu.be/CbTU92pbDKw?si=inuAzQyUZXs__pOn
+and was made with a help of Chat GPT
